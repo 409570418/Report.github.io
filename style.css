@@ -11,7 +11,7 @@ body {
 	background: #554842 url(images/img03.jpg) repeat;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 13px;
-	color: #737373;
+	color: yellow;
 }
 
 h1, h2, h3 {
@@ -19,7 +19,7 @@ h1, h2, h3 {
 	padding: 0;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: normal;
-	color: #FFA800;
+	color: red;
 }
 
 h1 {
