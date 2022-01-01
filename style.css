@@ -126,7 +126,7 @@ img.aligncenter {
 
 #menu-wrapper {
 	overflow: hidden;
-	height: 200px;
+	height: 150px;
 	background: #404040 url(images/img02.jpg) repeat-x;
 }
 
@@ -156,7 +156,7 @@ img.aligncenter {
 	line-height: 60px;
 	text-decoration: none;
 	text-transform: uppercase;
-	font-size: 25px;
+	font-size: 30px;
 	font-weight: 700;
 	color: #FFFFFF;
 	border: none;
