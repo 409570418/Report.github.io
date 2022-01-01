@@ -150,14 +150,14 @@ img.aligncenter {
 #menu a {
 	display: block;
 	float: left;
-	height: 200px;
+	height: 100px;
 	margin: 0px;
 	padding: 0px 80px 0px 80px;
 	line-height: 60px;
 	text-decoration: none;
 	text-transform: uppercase;
 
-   	font-size: 80px;
+   	font-size:75px;
 	
 	font-weight: 700;
 	color: #FFFFFF;
